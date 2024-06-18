@@ -1,0 +1,13 @@
+h1 {
+    color: purple;
+}
+
+.dropdown-content {
+    visibility: hidden;
+    display: none;
+}
+
+.dropdown-content.visible {
+    visibility: visible;
+    display: block;
+}
